@@ -43,13 +43,14 @@ data types.
 > Makabaka
 <br>
 
-## Assignments
-hhhh
-
-
-
-
-
-## Assignments
+## Assignments ![image](Assignment/testing.gif)
+Assignment 1️⃣  <br><br>
+📝 Worksheet : <br><br>
+<a href="Assignment/Assignment 1.pdf">
+  <img src="Assignment/a1.png" alt="PDF Preview" width="300">
+</a>
+- 💭 Reflection:
+> This lab exercise had evaluated my understanding on flowchart and pseudocode. It also requires us to do extra research regarding the modulus function. (We haven't learn that in this stage 😭😭)
+<br>
 
 ## Reflection

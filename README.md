@@ -50,7 +50,16 @@ Assignment 1️⃣  <br><br>
   <img src="Assignment/a1.png" alt="PDF Preview" width="300">
 </a>
 - 💭 Reflection:
-> This lab exercise had evaluated my understanding on flowchart and pseudocode. It also requires us to do extra research regarding the modulus function. (We haven't learn that in this stage 😭😭)
+> This assignment requires us to develop a flowchart for basal metabolic rate (BMR) calculator. To complete this task, we need to apply user-defined function and selection. Besides BMR we also develop another function, which is to calculate Total Daily Energy Expenditure (TDEE). It is more complicated compare to the previous flowchart in lab exercise. Through this assignment, I knew the importance of structuring a flowchart properly before writing code. 
+<br>
+
+Assignment 2️⃣  <br><br>
+📝 Worksheet : <br><br>
+<a href="Assignment/Assignment 2.pdf">
+  <img src="Assignment/a2.png" alt="PDF Preview" width="300">
+</a>
+- 💭 Reflection:
+> This assignment requires us to develop a monthly car installment calculator. To be honest, this is the longest code I've wrote in this whole semester XD. It covered topics from selection to inputs. The error handling part was the most fustrating one hahaha, after writing 650+ lines of code to ensure that the program can operates, but knowing the truth that there's still a long journey to write codes for error checking was quite heartbreaking hahaha.
 <br>
 
 ## Reflection
